@@ -6,6 +6,10 @@
 
 In this document, we will introduce **ASP.NET Zero Power Tools** and explain it. This tool is developed to minimize the effort of creating a new CRUD page. It creates all the related layers from the database to the user interface by just defining an entity. This tool supports ASP.NET Zero v5.0.0 and later versions.
 
+## Pre Requirements
+
+- [dotnet-ef](https://docs.microsoft.com/en-gb/ef/core/miscellaneous/cli/dotnet#ef-core-3x)
+
 ## Download And Install
 
  If your project version is 5.1.0+, all you have to do is just install the **ASP.NET Zero Power Tools** extension on Visual Studio from [marketplace](https://marketplace.visualstudio.com/items?itemName=Volosoft.AspNetZeroPowerTools) or Extension and Updates.
